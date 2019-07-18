@@ -3,9 +3,9 @@ A simple demo will be posted here before the end of July 2019.
 
 ## (BELOW IS ALL A WORK IN PROGRESS --- currently)
 Fully Connected Neural Network:
-![Confusion Matrix][MLP]
+![Confusion Matrix][RNN]
 
-[MLP]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/MLP.png "Confusion Matrix"
+[RNN]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn_example.png "Recurrent Neural Network"
 
 Confusion Matrix:
 ![Confusion Matrix][CM]
