@@ -2,24 +2,20 @@
 A simple demo will be posted here before the end of July 2019.
 
 ## (BELOW IS ALL A WORK IN PROGRESS --- currently)
-Fully Connected Neural Network:
-![Confusion Matrix][RNN]
-
+Recurrent Neural Network:
+![Recurrent Neural Network][RNN]
 [RNN]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn_example.png "Recurrent Neural Network"
 
 Confusion Matrix:
 ![Confusion Matrix][CM]
-
 [CM]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/plot.png "Confusion Matrix"
 
 Accuracy Plot (Orange: Training data, Blue: Testing data):
 ![Accuracy Plot][AP]
-
 [AP]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/acc.jpg "Accuracy Plot"
 
 Loss Plot (Orange: Training data, Blue: Testing data):
 ![Loss Plot][LP]
-
 [LP]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/loss.jpg "Loss Plot"
 
 ## Extras
@@ -29,15 +25,12 @@ Loss Plot (Orange: Training data, Blue: Testing data):
 
 Confusion Matrix (w/ Extra Configurations):
 ![Confusion Matrix][CM1]
-
 [CM1]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/plot1.png "Confusion Matrix"
 
 Accuracy Plot (w/ Extra Configurations) (Orange: Training data, Blue: Testing data):
 ![Accuracy Plot][AP1]
-
 [AP1]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/acc1.jpg "Accuracy Plot"
 
 Loss Plot (w/ Extra Configurations) (Orange: Training data, Blue: Testing data):
 ![Loss Plot][LP1]
-
 [LP1]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/loss1.jpg "Loss Plot"
