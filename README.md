@@ -19,19 +19,19 @@ One-to-One RNN:
 [RNN3]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn-one-to-one.png "One-to-One RNN"
 
 Confusion Matrix:
-![Confusion Matrix][CM]
+![Confusion Matrix1][CM1]
 
-[CM]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/plot.png "Confusion Matrix"
+[CM1]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn_model_1/plot.png "Confusion Matrix"
 
 Accuracy Plot (Orange: Training data, Blue: Testing data):
-![Accuracy Plot][AP]
+![Accuracy Plot1][AP1]
 
-[AP]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/acc.jpg "Accuracy Plot"
+[AP1]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn_model_1/acc.png "Accuracy Plot"
 
 Loss Plot (Orange: Training data, Blue: Testing data):
-![Loss Plot][LP]
+![Loss Plot1][LP1]
 
-[LP]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/loss.jpg "Loss Plot"
+[LP1]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn_model_1/loss.png "Loss Plot"
 
 ## Extras
 * Dropout
@@ -39,16 +39,16 @@ Loss Plot (Orange: Training data, Blue: Testing data):
 * Other weight initializations
 
 Confusion Matrix (w/ Extra Configurations):
-![Confusion Matrix][CM1]
+![Confusion Matrix2][CM2]
 
-[CM1]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/plot1.png "Confusion Matrix"
+[CM2]: NO_LINK_YET "Confusion Matrix"
 
 Accuracy Plot (w/ Extra Configurations) (Orange: Training data, Blue: Testing data):
-![Accuracy Plot][AP1]
+![Accuracy Plot2][AP2]
 
-[AP1]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/acc1.jpg "Accuracy Plot"
+[AP2]: NO_LINK_YET "Accuracy Plot"
 
 Loss Plot (w/ Extra Configurations) (Orange: Training data, Blue: Testing data):
-![Loss Plot][LP1]
+![Loss Plot2][LP2]
 
-[LP1]: https://raw.githubusercontent.com/ECE-Engineer/TensorFlow-Multilayer-Perceptron/master/loss1.jpg "Loss Plot"
+[LP2]: NO_LINK_YET "Loss Plot"
