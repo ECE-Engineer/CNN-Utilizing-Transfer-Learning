@@ -138,7 +138,7 @@ output_logits = RNN(x, W, b, timesteps, num_hidden_units)
 y_rnn = tf.nn.softmax(output_logits)
 
 # Define the loss function, optimizer, and accuracy
-cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y_, logits=output_logits), name='cross_entropy')
+cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y_, logits=output_logits))
 tf.summary.scalar('cross_entropy', cross_entropy)
 
 optimizer = tf.train.AdamOptimizer(learning_rate=learning_rate, name='Adam-op').minimize(cross_entropy)
@@ -148,7 +148,7 @@ prediction_label = tf.argmax(output_logits, axis=1, name='predictions')
 actual_label = tf.argmax(y_, 1)
 correct_prediction = tf.equal(tf.argmax(output_logits, 1), actual_label, name='correct_pred')
 
-accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32), name='accuracy')
+accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 tf.summary.scalar('accuracy', accuracy)
 
 # Initialize and Run
