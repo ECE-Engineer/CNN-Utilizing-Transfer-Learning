@@ -1,5 +1,6 @@
 # Recurrent-Neural-Network
 A simple demo will be posted here before the end of July 2019.
+Vanilla RNN example on the MNIST dataset using a 1-1 RNN model with one timestep.
 
 ## (BELOW IS ALL A WORK IN PROGRESS --- currently)
 Recurrent Neural Network:
