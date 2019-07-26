@@ -50,6 +50,11 @@ Accuracy Plot (w/ Extra Configurations) (Orange: Training data, Blue: Testing da
 
 Loss Plot (w/ Extra Configurations) (Orange: Training data, Blue: Testing data):
 ![Loss Plot2][LP2]
+<<<<<<< HEAD
 
 [LP2]: NO_LINK_YET "Loss Plot"
 
+=======
+
+[LP2]: NO_LINK_YET "Loss Plot"
+>>>>>>> 38117d2113f9e8c7bd52083775f11d2f5e353c00
