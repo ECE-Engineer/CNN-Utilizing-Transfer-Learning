@@ -4,9 +4,19 @@ Vanilla RNN example on the MNIST dataset using a 1-1 RNN model with one timestep
 
 ## (BELOW IS ALL A WORK IN PROGRESS --- currently)
 Recurrent Neural Network:
-![Recurrent Neural Network][RNN]
+![Recurrent Neural Network1][RNN1]
 
-[RNN]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn_example.png "Recurrent Neural Network"
+[RNN1]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/architecture-rnn.png "Recurrent Neural Network"
+
+RNN Cell Architecture:
+![Recurrent Neural Network2][RNN2]
+
+[RNN2]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/description-block-rnn.png "RNN Cell Architecture"
+
+One-to-One RNN:
+![Recurrent Neural Network3][RNN3]
+
+[RNN3]: https://github.com/TensorFlow-ML-Architectures/Recurrent-Neural-Network/raw/master/rnn-one-to-one.png "One-to-One RNN"
 
 Confusion Matrix:
 ![Confusion Matrix][CM]
